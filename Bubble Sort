@@ -25,3 +25,6 @@ public class Bubble_sort
         }
     }
 }
+//Time complexity of the code is O(n2) but it is very much time consuming 
+as we need to swap the two element int every interation
+if the 1st element > 2nd element.
