@@ -36,3 +36,5 @@ public class BS_Q2
 
     }
 }
+// Time complexity=O(sqrt(n)) (Naive approach)
+// Time complexity =O(logn) (Efficient approach)
