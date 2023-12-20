@@ -107,3 +107,7 @@ public class BS_Q1
         System.out.println("The count of number k is :"+ count);
     }
 }
+
+
+
+// Time Complexity=O(logn)
