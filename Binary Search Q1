@@ -1,4 +1,4 @@
-// Q1-find the first occurance , last occurance and the count of element in a sorted array where repeatating element allowed
+--- Q1-find the first occurance , last occurance and the count of element in a sorted array where repeatating element allowed--
 
 
 public class BS_Q1
@@ -27,7 +27,7 @@ public class BS_Q1
         }
         return -1;
     }
-    //last occurance of element in a sorted array where repetating numbers are present
+--------------------last occurance of element in a sorted array where repetating numbers are present---------------------------
     static int Last_occurance(int arr[],int low,int high,int k)
     {
         if(low<=high) {
