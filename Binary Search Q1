@@ -51,6 +51,7 @@ public class BS_Q1
         }
         return -1;
     }
+----------------- count occurances of a given number in a array---------------------------------------------------
     static int Count_occurances(int arr[],int low,int high,int k)
     {
         int first=first_occurance(arr,low,high,k);
